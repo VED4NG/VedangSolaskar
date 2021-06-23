@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Java, Javascript, Python, Android Studio and Bootstrap**
 
-- 👨‍💻 All of my projects are available at [technovedang.com](technovedang.com)
+- 👨‍💻 All of my projects are available at [technovedang.com](VedangSolaskar)
 
 - 📝 Planning to learn C# and Kotlin
 
