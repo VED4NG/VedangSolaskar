@@ -5,11 +5,11 @@
 
 - 👨‍💻 All of my projects are available at [technovedang.com](technovedang.com)
 
-- 📝 I regularly write articles on [blog.warelabs.in](blog.warelabs.in)
+- 📝 Planning to learn C# and Kotlin
 
-- 📫 How to reach me **vedangsolaskar2018@gmail.com**
+- 📫 Reach me at **vedangsolaskar2018@gmail.com**
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact **I like to read memes**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
