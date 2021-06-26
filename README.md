@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Vedang</h1>
-<h3>Student, Developer and Freelancer from India</h3><br>
+<h3>Student, Developer and Freelancer from India</h3>
 
 - 🌱 I’m currently learning **Java, Javascript, Python, Android Studio and Bootstrap**
 
