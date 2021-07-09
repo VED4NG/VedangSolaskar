@@ -25,9 +25,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vedangsolaskar&show_icons=true&locale=en" alt="vedangsolaskar" /></p>
 
-***
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" alt="vedangsolaskar" /></p>
-
-
 <h3>Show some ❤️ by starring some of the repositories!
