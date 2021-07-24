@@ -3,11 +3,11 @@
 
 - 🌱 I’m currently learning **Java, Python, Android Studio and Bootstrap**
 
-- 👨‍💻 All of my projects are available at [technovedang.com](VedangSolaskar)
+- 👨‍💻 All of my projects are available at [https://technovedang.xyz/works](VedangSolaskar)
 
-- 📝 Planning to learn C# and Kotlin
+- 📝 I regularly write articles on [https://technovedang.xyz](My Blog)
 
-- 📫 Reach me at **vedangsolaskar2018@gmail.com**
+- 📫 Reach me at **hi@technovedang.xyz**
 
 - 😉 Feel free to message me ;)
 
