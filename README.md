@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **Java, Python, Android Studio and Bootstrap**
 
-- 👨‍💻 All of my projects are available at [https://technovedang.xyz/works](VedangSolaskar)
+- 👨‍💻 All of my projects are available <a href='https://technovedang.xyz/works'>here</a>
 
-- 📝 I regularly write articles on [https://technovedang.xyz](MyBlog)
+- 📝 I regularly write articles on <a href='https://technovedang.xyz'>MyBlog</a>
 
 - 📫 Reach me at **hi@technovedang.xyz**
 
