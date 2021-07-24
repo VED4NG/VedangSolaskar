@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available <a href='https://technovedang.xyz/works'>here</a>
 
-- 📝 I regularly write articles on <a href='https://technovedang.xyz'>MyBlog</a>
+- 📝 I regularly write articles on <a href='https://technovedang.xyz'>my blog</a>
 
 - 📫 Reach me at **hi@technovedang.xyz**
 
