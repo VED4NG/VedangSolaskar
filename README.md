@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://technovedang.xyz/works](VedangSolaskar)
 
-- 📝 I regularly write articles on [https://technovedang.xyz](My Blog)
+- 📝 I regularly write articles on [https://technovedang.xyz](MyBlog)
 
 - 📫 Reach me at **hi@technovedang.xyz**
 
